@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 95.979 s <<< FAILURE! - in TestSuite
+com.browserstack.RunWebDriverCucumberTests.runScenario["BStack Sample Test - Add product to cart", "BrowserStack Demo"](4)  Time elapsed: 25.508 s  <<< FAILURE!
+java.lang.AssertionError: 
+expected [iPhone 12] but found [iPhone 12
+$799.00
+or 9 x $ 88.78
+Add to cart]
+

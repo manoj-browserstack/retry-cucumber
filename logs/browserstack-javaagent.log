@@ -1,0 +1,83 @@
+18:39:36.185 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+18:39:36.187 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+18:39:36.270 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manoj/Downloads/cucumber-java-browserstack-master, cucumber.features=src/test/resources/features/test, cucumber.publish.quiet=true, idea.version=2023.3.2, user.dir=/Users/manoj/Downloads/cucumber-java-browserstack-master, localrepository=/Users/manoj/.m2/repository}
+18:39:36.271 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/cucumber-java-browserstack-master/browserstack.yml
+18:39:36.294 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:39:36.398 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to cucumber-testng
+18:39:38.925 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+18:40:03.692 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/wlgamksqaslrvgcr9catpgv2drhltwohewjc2m22 to view build report, insights, and many more debugging information all at one place!
+
+18:40:05.485 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/0a3f98541898caaa6e33ac6660b5e0066946e575
+18:40:05.485 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+18:54:35.984 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+18:54:35.986 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+18:54:36.068 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manoj/Downloads/cucumber-java-browserstack-master, cucumber.features=src/test/resources/features/test, cucumber.publish.quiet=true, idea.version=2023.3.2, user.dir=/Users/manoj/Downloads/cucumber-java-browserstack-master, localrepository=/Users/manoj/.m2/repository}
+18:54:36.068 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/cucumber-java-browserstack-master/browserstack.yml
+18:54:36.090 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:54:36.194 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to cucumber-testng
+18:54:38.738 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+18:55:04.524 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/5izjphyivxoiyfkft8iayfzi3r3zjaxovivqyfp5 to view build report, insights, and many more debugging information all at one place!
+
+18:55:07.290 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a02ad5a9ef6966f0e5ce4545ea886770d9b84d2b
+18:55:07.291 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+18:57:43.086 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+18:57:43.087 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+18:57:43.176 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manoj/Downloads/cucumber-java-browserstack-master, cucumber.features=src/test/resources/features/test, cucumber.publish.quiet=true, idea.version=2023.3.2, user.dir=/Users/manoj/Downloads/cucumber-java-browserstack-master, localrepository=/Users/manoj/.m2/repository}
+18:57:43.176 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/cucumber-java-browserstack-master/browserstack.yml
+18:57:43.197 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:57:43.304 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to cucumber-testng
+18:57:45.832 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+18:58:33.624 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/jwuzthc7gapf1yyhb5klohzvtu8gekng5f4v3fh0 to view build report, insights, and many more debugging information all at one place!
+
+18:58:35.326 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/12f746835cdbb57a3f331199b1d5f676142c604b
+18:58:35.327 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+18:59:53.709 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+18:59:53.710 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+18:59:53.790 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manoj/Downloads/cucumber-java-browserstack-master, cucumber.features=src/test/resources/features/test, cucumber.publish.quiet=true, idea.version=2023.3.2, user.dir=/Users/manoj/Downloads/cucumber-java-browserstack-master, localrepository=/Users/manoj/.m2/repository}
+18:59:53.791 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/cucumber-java-browserstack-master/browserstack.yml
+18:59:53.811 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:59:53.915 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+18:59:56.500 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+18:59:58.598 [Cucumber Tests-0@0] ERROR c.b.DriverServiceTransformer - [source error] newPageImpl() not found in com.microsoft.playwright.impl.BrowserContextImpl
+18:59:58.620 [Cucumber Tests-0@0] ERROR c.b.DriverServiceTransformer - [source error] no such field: wsEndpoint
+19:01:01.216 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/0nlytgovet13ahtsyazls4qpxsklwxcy8d5aws0g to view build report, insights, and many more debugging information all at one place!
+
+19:01:02.975 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/7c85beaaa8e89dc7842b7560e61456c7f8336a25
+19:01:02.976 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:52:30.832 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+16:52:30.833 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:52:30.927 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manoj/Downloads/cucumber-java-browserstack-master, cucumber.features=src/test/resources/features/test, cucumber.publish.quiet=true, idea.version=2023.3.4, user.dir=/Users/manoj/Downloads/cucumber-java-browserstack-master, localrepository=/Users/manoj/.m2/repository}
+16:52:30.927 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/cucumber-java-browserstack-master/browserstack.yml
+16:52:30.949 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:52:31.055 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:52:34.425 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:52:36.265 [Cucumber Tests-0@0] ERROR c.b.DriverServiceTransformer - [source error] newPageImpl() not found in com.microsoft.playwright.impl.BrowserContextImpl
+16:52:36.283 [Cucumber Tests-0@0] ERROR c.b.DriverServiceTransformer - [source error] no such field: wsEndpoint
+16:54:03.602 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/0mzmcl09nupn0ql1hvpsm8vjrjgvkqigsp9qx9vx to view build report, insights, and many more debugging information all at one place!
+
+16:54:06.126 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/9b1551fecf78d1f12f40c9cd28e429b0a07ed3ca
+16:54:06.127 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:55:00.350 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+16:55:00.351 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:55:00.434 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manoj/Downloads/cucumber-java-browserstack-master, cucumber.features=src/test/resources/features/test, cucumber.publish.quiet=true, idea.version=2023.3.4, user.dir=/Users/manoj/Downloads/cucumber-java-browserstack-master, localrepository=/Users/manoj/.m2/repository}
+16:55:00.435 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/cucumber-java-browserstack-master/browserstack.yml
+16:55:00.456 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:55:00.562 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:55:03.815 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:55:05.606 [Cucumber Tests-0@0] ERROR c.b.DriverServiceTransformer - [source error] newPageImpl() not found in com.microsoft.playwright.impl.BrowserContextImpl
+16:55:05.627 [Cucumber Tests-0@0] ERROR c.b.DriverServiceTransformer - [source error] no such field: wsEndpoint
+16:56:52.391 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/o7cprxhy7wzutbnsdi5uhiz8y4xlmywqnvsxkfwj to view build report, insights, and many more debugging information all at one place!
+
+16:56:54.130 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/e48ae05e159a05b36dbb3ae59ee1e43e7f4559b1
+16:56:54.130 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:12:17.869 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+17:12:17.870 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:12:17.954 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/manoj/Downloads/cucumber-java-browserstack-master, cucumber.features=src/test/resources/features/test, cucumber.publish.quiet=true, idea.version=2023.3.4, user.dir=/Users/manoj/Downloads/cucumber-java-browserstack-master, localrepository=/Users/manoj/.m2/repository}
+17:12:17.954 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/manoj/Downloads/cucumber-java-browserstack-master/browserstack.yml
+17:12:17.974 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:12:18.079 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to cucumber-testng
+17:12:21.435 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+17:13:59.298 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/oq2ipsgo8vz7kabgpkzdjzis2cy1dxsgt28sbaep to view build report, insights, and many more debugging information all at one place!
+
+17:14:01.038 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/e58b11d131ad6be83b0093ce769b56d0b380b84e
+17:14:01.038 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO

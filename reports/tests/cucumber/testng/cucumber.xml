@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="4" passed="0" skipped="0" total="4">
+    <suite duration-ms="95478" name="io.cucumber.core.plugin.TestNGFormatter">
+        <test duration-ms="95478" name="io.cucumber.core.plugin.TestNGFormatter">
+            <class name="BrowserStack Demo">
+                <test-method duration-ms="18083" finished-at="2024-02-28T11:42:41.476654Z" name="BStack Sample Test - Add product to cart" started-at="2024-02-28T11:42:23.272813Z" status="FAIL">
+                    <exception class="java.lang.AssertionError">
+                        <message><![CDATA[Given I am on the website 'https://www.bstackdemo.com'......................passed
+When I select a product and click on 'Add to cart' button...................passed
+Then the product should be added to cart....................................failed
+]]></message>
+                        <full-stacktrace><![CDATA[java.lang.AssertionError: expected [iPhone 12] but found [iPhone 12
+$799.00
+or 9 x $ 88.78
+Add to cart]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.browserstack.stepdefs.StackDemoSteps.product_should_be_added_to_cart(StackDemoSteps.java:51)
+	at ✽.the product should be added to cart(file:///Users/manoj/Downloads/cucumber-java-browserstack-master/src/test/resources/features/test/StackDemo.feature:6)
+]]></full-stacktrace>
+                    </exception>
+                </test-method>
+                <test-method duration-ms="20644" finished-at="2024-02-28T11:43:05.887518Z" name="BStack Sample Test - Add product to cart_2" started-at="2024-02-28T11:42:43.930910Z" status="FAIL">
+                    <exception class="java.lang.AssertionError">
+                        <message><![CDATA[Given I am on the website 'https://www.bstackdemo.com'......................passed
+When I select a product and click on 'Add to cart' button...................passed
+Then the product should be added to cart....................................failed
+]]></message>
+                        <full-stacktrace><![CDATA[java.lang.AssertionError: expected [iPhone 12] but found [iPhone 12
+$799.00
+or 9 x $ 88.78
+Add to cart]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.browserstack.stepdefs.StackDemoSteps.product_should_be_added_to_cart(StackDemoSteps.java:51)
+	at ✽.the product should be added to cart(file:///Users/manoj/Downloads/cucumber-java-browserstack-master/src/test/resources/features/test/StackDemo.feature:6)
+]]></full-stacktrace>
+                    </exception>
+                </test-method>
+                <test-method duration-ms="18671" finished-at="2024-02-28T11:43:28.371517Z" name="BStack Sample Test - Add product to cart_3" started-at="2024-02-28T11:43:08.394406Z" status="FAIL">
+                    <exception class="java.lang.AssertionError">
+                        <message><![CDATA[Given I am on the website 'https://www.bstackdemo.com'......................passed
+When I select a product and click on 'Add to cart' button...................passed
+Then the product should be added to cart....................................failed
+]]></message>
+                        <full-stacktrace><![CDATA[java.lang.AssertionError: expected [iPhone 12] but found [iPhone 12
+$799.00
+or 9 x $ 88.78
+Add to cart]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.browserstack.stepdefs.StackDemoSteps.product_should_be_added_to_cart(StackDemoSteps.java:51)
+	at ✽.the product should be added to cart(file:///Users/manoj/Downloads/cucumber-java-browserstack-master/src/test/resources/features/test/StackDemo.feature:6)
+]]></full-stacktrace>
+                    </exception>
+                </test-method>
+                <test-method duration-ms="24190" finished-at="2024-02-28T11:43:56.236953Z" name="BStack Sample Test - Add product to cart_4" started-at="2024-02-28T11:43:30.749201Z" status="FAIL">
+                    <exception class="java.lang.AssertionError">
+                        <message><![CDATA[Given I am on the website 'https://www.bstackdemo.com'......................passed
+When I select a product and click on 'Add to cart' button...................passed
+Then the product should be added to cart....................................failed
+]]></message>
+                        <full-stacktrace><![CDATA[java.lang.AssertionError: expected [iPhone 12] but found [iPhone 12
+$799.00
+or 9 x $ 88.78
+Add to cart]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.browserstack.stepdefs.StackDemoSteps.product_should_be_added_to_cart(StackDemoSteps.java:51)
+	at ✽.the product should be added to cart(file:///Users/manoj/Downloads/cucumber-java-browserstack-master/src/test/resources/features/test/StackDemo.feature:6)
+]]></full-stacktrace>
+                    </exception>
+                </test-method>
+            </class>
+        </test>
+    </suite>
+</testng-results>
